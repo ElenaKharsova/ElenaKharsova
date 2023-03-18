@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Elena%20Kharsova-blue?style=flat&logo=Linkedin&logoColor=white"> <img src="https://www.codewars.com/users/Elena.K/badges/micro">
 
 <!--
 **ElenaKharsova/ElenaKharsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
