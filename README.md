@@ -1,9 +1,12 @@
 ### Hi there 👋
+![Jokes Card](https://readme-jokes.vercel.app/api)   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br><br><br><br>
 <a href = "https://www.linkedin.com/in/elena-kharsova-505a51a8/"><img src="https://img.shields.io/badge/Elena%20Kharsova-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href = "https://www.codewars.com/users/Elena.K"><img src="https://www.codewars.com/users/Elena.K/badges/micro"></a>
+<br>
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=nimfy&theme=dark)
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **ElenaKharsova/ElenaKharsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
