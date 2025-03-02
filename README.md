@@ -1,7 +1,6 @@
 ### Hi there 👋
-<a href = "https://www.linkedin.com/in/elena-kharsova-505a51a8/">
-   <img src="https://img.shields.io/badge/Elena%20Kharsova-blue?style=flat&logo=Linkedin&logoColor=white"> <img src="https://www.codewars.com/users/Elena.K/badges/micro">
-</a>
+<a href = "https://www.linkedin.com/in/elena-kharsova-505a51a8/"><img src="https://img.shields.io/badge/Elena%20Kharsova-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href = "https://www.codewars.com/users/Elena.K"><img src="https://www.codewars.com/users/Elena.K/badges/micro"></a>
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
